@@ -1147,6 +1147,15 @@ export const Showcases = [
     source: null,
     tags: ["gateway", "token"],
   },
+{
+    title: "EIKONIKOS",
+    description:
+      " the New Era of Open World Metaverse on Cardano | The Other Planet | UE5 .",
+    preview: require("./showcase/Eikonikos.png"), 
+    website: "https://eikonikos.io/",
+    source: null,
+    tags: [ "marketplace", "nftsupport", "token"],
+  },
 ];
 
 export const TagList = Object.keys(Tags);
